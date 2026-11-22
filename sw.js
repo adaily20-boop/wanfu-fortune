@@ -1,5 +1,5 @@
 /* 犬萬福抽籤 — 最小 service worker，network-first */
-var CACHE = "wanfu-fortune-v4";
+var CACHE = "wanfu-fortune-v5";
 var ASSETS = [
   "./",
   "./index.html",
